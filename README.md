@@ -17,6 +17,10 @@ Follow instructions on the official documentation site to make sure `Node.js` is
 
 Run `npm start` in the project directory and the app will be available at port 3000 on localhost.
 
+## Deploy
+
+The app has been deployed to [Heroku](https://flyer-tic-tac-toe-react.herokuapp.com/) for showcasing. 
+
 ## Available scripts
 
 In the project directory, you can run:
